@@ -1,6 +1,6 @@
 {
   "name": "weather-with-redux",
-  "homepage": "http://jayjongcheolpark.github.io/weather",
+  "homepage": "http://jayjongcheolpark.github.io/react-weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
